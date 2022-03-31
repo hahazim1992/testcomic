@@ -5,10 +5,7 @@
       "logLevel": "debug",
       "changeOrigin": true,
       "pathRewrite" : {
-        "^/api": ""
-      },
-      "router": {
-        "hahazim1992.github.io/testcomic": "https://hahazim1992.github.io/testcomic"
+        "^/api": "test"
       }
     }
 }
